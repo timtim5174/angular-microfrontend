@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+$primary:#33325e;
+html, body {
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  font-size: 1.125rem;
+}
+
+h1, h2, h3, h4, h5, h6, span {
+  color: $primary;
+}
+
+a {
+  color: $primary;
+  text-decoration: none;
+}
